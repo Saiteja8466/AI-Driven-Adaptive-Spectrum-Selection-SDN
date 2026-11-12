@@ -1,0 +1,6 @@
+,Average_Interference,Average_Interference,Channel_Switches,Channel_Switches,Switching_Rate_Percent,Switching_Rate_Percent
+,mean,std,mean,std,mean,std
+Controller,,,,,,
+Current-based,3.0094,0.0538,84.7,7.9545,9.4216,0.8848
+Linear Regression,3.0178,0.0552,85.65,8.8631,9.5273,0.9859
+Random Forest,3.039,0.0611,90.05,8.8048,10.0167,0.9794

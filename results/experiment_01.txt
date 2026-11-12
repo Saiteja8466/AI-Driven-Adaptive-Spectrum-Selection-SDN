@@ -1,0 +1,4 @@
+Experiment 01 - Energy Detection
+Primary User Detected: Channel is BUSY
+Measured Signal Energy: 4.5341
+Threshold: 2.0

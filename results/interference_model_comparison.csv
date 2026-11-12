@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2
+Persistence,0.9652,2.2552,0.5019
+Random Forest,1.3492,2.1396,0.5517
+Linear Regression,1.3236,2.1117,0.5633
